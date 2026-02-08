@@ -4,7 +4,7 @@
 <div align="center">
 
   <a href="https://github.com/Pops0n">
-    <img height="180" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
+    <img height="150" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/Pops0n">
