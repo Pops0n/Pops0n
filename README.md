@@ -2,8 +2,15 @@
 <br>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Pops0n">
+    <img height="180" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/Pops0n">
+    <img height="180" align="center" src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <hr style="border: none; height: 2px; background: #333; border-radius: 2px;">
