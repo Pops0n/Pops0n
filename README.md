@@ -1,15 +1,9 @@
 <h2>Hi there 👋</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="./profile/stats.svg" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</div>
 
 <hr style="border: none; height: 2px; background: #333; border-radius: 2px;">
 
