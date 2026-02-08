@@ -4,11 +4,11 @@
 <div align="center">
 
   <a href="https://github.com/Pops0n">
-    <img height="200" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
+    <img height="180" align="center" src="./profile/stats.svg" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/Pops0n">
-    <img height="200" align="center" src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
+    <img height="180" align="center" src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
   </a>
 </div>
 
