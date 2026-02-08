@@ -1,7 +1,5 @@
 <h2>Hi there 👋</h2>
 
-<hr style="border: none; height: 2px; background: #333; border-radius: 2px;">
-
 <table align="center">
   <tr>
     <td>
