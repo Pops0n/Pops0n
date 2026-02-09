@@ -21,15 +21,14 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&rank_icon=github&hide=issues
-          path: profile/stats.svg
+          path: profile/stats-card.svg
           token: ${{ secrets.GH_PAT }}
 
       - name: Commit cards if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg
-          # jeśli są zmiany, commit i push
+          git add profile/stats-card.svg
           if git diff --cached --quiet; then
             echo "No changes detected, skipping commit."
           else
