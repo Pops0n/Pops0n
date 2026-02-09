@@ -5,11 +5,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=My+github+stats" alt="Typing SVG" /></a>
 
   <a href="https://github.com/Pops0n">
-    <img height="150" align="center" src="./profile/stats-card.svg" alt="GitHub Stats" />
+    <img height="130" align="center" src="./profile/stats-card.svg" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/Pops0n">
-    <img height="150" align="center" src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
+    <img height="130" align="center" src="https://streak-stats.demolab.com?user=Pops0n&theme=dark&short_numbers=true" alt="GitHub Streak" />
   </a>
 </div>
 
