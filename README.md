@@ -1,7 +1,8 @@
-<h2>Hi there 👋</h2>
-<br>
-
 <div align="center">
+
+  <hr style="border: none; height: 2px; background: #333; border-radius: 2px;">
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=My+github+stats" alt="Typing SVG" /></a>
 
   <a href="https://github.com/Pops0n">
     <img height="150" align="center" src="./profile/stats-card.svg" alt="GitHub Stats" />
