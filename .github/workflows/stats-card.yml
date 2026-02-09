@@ -1,4 +1,4 @@
-name: Update README cards
+name: Update README stats-card
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&rank_icon=github&hide=issues
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&rank_icon=github&hide=issues&hide_title=true
           path: profile/stats-card.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -32,6 +32,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes detected, skipping commit."
           else
-            git commit -m "Update README cards"
+            git commit -m "Update README stats-card"
             git push
           fi
