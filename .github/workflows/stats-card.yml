@@ -20,7 +20,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&rank_icon=github&hide=issues&hide_title=true&show=prs_merged_percentage,discussions_answered
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&rank_icon=github&hide=issues&hide_title=true
           path: profile/stats-card.svg
           token: ${{ secrets.GH_PAT }}
 
